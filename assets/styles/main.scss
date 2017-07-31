@@ -54,3 +54,10 @@
    float: right;
    right: 0;
 }
+
+.dropdown-menu {
+  background-color: $color-drak-grey;
+  li a {
+    color: $color-grey;
+  }
+}
